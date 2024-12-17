@@ -1,9 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img src="https://scontent-qro1-2.xx.fbcdn.net/v/t31.18172-8/24254766_2239075412785222_3732198953529194763_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeEmXq8-fcaOhKeE-KYJw0crd8saX6NDpNp3yxpfo0Ok2uYErKRvfn2K-pHprH36PgdTeUPD0ESdtj2oV9VCvsAR&_nc_ohc=JHfnSlUPBBsQ7kNvgHF5Wbs&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=A5nIJ0V9lQKdxQfT64Enktc&oh=00_AYArRz2eBuH2BOk9Lha4yEPrjPlR9z4EHpoWCGrTuovEjA&oe=674B6637"  />
-</div>
-
 ###
 
 <p align="left">Diseñador y FrontEnd developer. Actualmente, estoy ampliando mis horizontes estudiando 🧠 Psicología. Me interesa explorar cómo la tecnología conecta con las personas y el comportamiento humano en entornos digitales.<br><br>Bienvenido/a a mi perfil, donde comparto algunos de mis proyectos y experimentos de código.</p>
