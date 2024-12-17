@@ -1,22 +1,19 @@
+<h2 align="left">Presentación</h2>
+
 ###
 
 <p align="left">Diseñador y FrontEnd developer. Actualmente, estoy ampliando mis horizontes estudiando 🧠 Psicología. Me interesa explorar cómo la tecnología conecta con las personas y el comportamiento humano en entornos digitales.<br><br>Bienvenido/a a mi perfil, donde comparto algunos de mis proyectos y experimentos de código.</p>
 
 ###
-<br>
+
 <h2 align="left">Sobre mí</h2>
 
 ###
 
-<ul>
-<li>✨ Resolviendo bugs desde 2008</li>
-<li>📚 Actualmente estoy aprendiendo Astro</li>
-<li>🎯 Objetivos: combinar diseño, código y ciencia del comportamiento para crear proyectos que resuelvan problemas</li>
-<li>🎲 Me gusta la música y salir a patinar</li>
-</ul>
+<p align="left">✨ Resolviendo bugs desde 2008<br>📚 Actualmente estoy aprendiendo Astro<br>🎯 Objetivos: combinar diseño, código y ciencia del comportamiento para crear proyectos que resuelvan problemas<br>🎲 Me gusta la música y salir a patinar</p>
 
 ###
-<br>
+
 <h2 align="left">Trabajo con</h2>
 
 ###
@@ -48,4 +45,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"  />
 </div>
-<br>
+
+###
+
+<img src="https://raw.githubusercontent.com/ledzerck/ledzerck/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ledzerck&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ledzerck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ledzerck/count.svg?"  />
+</div>
+
+###
